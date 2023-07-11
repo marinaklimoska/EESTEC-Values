@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title id="title">EESTEC Values</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+   <body class="homepage">
+  <main id="main"> 
+ 
+    <div class="top-text">
+      <h1> Learning our Values </h1>
+    </div>
+<div id="img-div">
+  <div class="rectangle-1"> 
+    <div id="slika">
+      <a  href="https://imgbb.com/"><img id="image" src="https://i.ibb.co/TvMDsV4/LC-Skopje-white-1.png" alt="LC-Skopje-white-1" border="0"> </a> 
+    </div>
+  </div>
+  </div>
+  <div class="del-2"> 
+      <div class="vrednost">
+          <h2> Inspiring Belonging </h2>
+          <p>We create an atmosphere where everyone is accepted. We create a friendly and safe environment where people feel that they belong to a community no matter their differences </p>
+      </div>
+      <div class="vrednost">
+          <h2> Invoking Passion </h2>
+          <p>We work in a creative atmosphere that enables our working processes to be fulfilling and exciting. We appreciate being part of a team that is making a difference and we enjoy every moment of it </p>
+      </div>
+      <div class="vrednost">
+          <h2> Encouraging Knowledge Sharing </h2>
+          <p>Sharing is caring. We create a learning environment where there is room for mistakes to ensure an easier learning curve and inspire the exchange and transfer of knowledge which ensures the development and continuity of our Association </p>
+      </div>
+      <div class="vrednost">
+          <h2> Activating Mobility </h2>
+          <p>We provide opportunities for travelling and discovering different cultures throughout our network. We strive to make travelling a lot easier and more possible for ourselves </p>
+      </div>
+      <div class="vrednost">
+          <h2> Pursuing Development </h2>
+          <p>We are committed to continuous personal, academic and professional development, and we embrace getting out of our comfort zone </p>
+      </div>
+      <div class="vrednost">
+          <h2> Empowering Collaboration </h2>
+          <p>We empower and encourage open communication and collaboration within our network. That is how great things are done </p>
+      </div>
+      <div class="vrednost">
+          <h2> Striving for Professionalism </h2>
+          <p>We organize projects and events in our branches all over Europe and do our best to satisfy the needs of our participants, organizers and partners. Every project or event which we organize, and every internal or external cooperation that we have is built on consistency and trust, and our actions are characterized by reliability </p>
+      </div>
+
+  </div>
+   </main>
+    </body>
